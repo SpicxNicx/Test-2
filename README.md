@@ -1,2 +1,2 @@
 # Test-2
-`[Google
+This is a link to the {Link: GitHub website https://github.com}: [GitHub](https://google.com) [1]
